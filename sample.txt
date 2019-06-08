@@ -1,1 +1,1 @@
-this is original sample file.
+This is original sample(Master) file.
